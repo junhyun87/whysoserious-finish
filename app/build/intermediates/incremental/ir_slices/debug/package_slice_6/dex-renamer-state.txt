@@ -1,0 +1,4 @@
+#Thu Aug 01 18:20:25 KST 2019
+base.0=D\:\\Engineer\\1. Project manage\\1903_APP_DEV\\06. Source\\Whysoserious - final\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

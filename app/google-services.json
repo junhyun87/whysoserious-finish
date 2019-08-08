@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "781451942388",
+    "firebase_url": "https://why-so-serious-86c30.firebaseio.com",
+    "project_id": "why-so-serious-86c30",
+    "storage_bucket": "why-so-serious-86c30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781451942388:android:7883aaa4b62bd385",
+        "android_client_info": {
+          "package_name": "com.raywenderlich.android.whysoserious"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781451942388-fomhttn8i2h7aknhva52dvkrsgue33s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQpgZBX2tLSjSSYib-ftAq3VWEgwugk5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781451942388-fomhttn8i2h7aknhva52dvkrsgue33s3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
